@@ -57,8 +57,8 @@ El código está estructurado bajo una estricta separación de responsabilidades
 ### 1. Clonar el repositorio y configurar el entorno
 
 ```bash
-git clone [https://github.com/notinlovv/proto-passwordgen.git](https://github.com/notinlovv/proto-passwordgen.git)
-cd proto-passwordgen
+git clone [https://github.com/notinlovv/BunkerVaultGen.git](https://github.com/notinlovv/BunkerVaultGen.git)
+cd BunkerVaultGen
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
