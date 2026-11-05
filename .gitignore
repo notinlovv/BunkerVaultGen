@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Caches de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Salidas de PyInstaller
+build/
+dist/
+*.spec
+*.toc
+*.pkg
+
+# Archivos de datos sensibles o de prueba
+*.vault
+*.enc
+*.key
+
+# Archivos de sistema y editor
+.vscode/
+.idea/
+.DS_Store
+*.zip
