@@ -1,9 +1,9 @@
+![BunkerVault UI](docs/preview.png)
+
 ```markdown
 # BunkerVault
 
 BunkerVault es un gestor de contraseñas de escritorio local y offline, diseñado bajo el principio de conocimiento cero (*Zero-Knowledge*). Está enfocado en proporcionar una solución ligera, autónoma y criptográficamente segura sin depender de sincronizaciones en la nube, servidores externos ni servicios de telemetría de terceros.
-
-![BunkerVault UI](docs/preview.png)
 
 ---
 
